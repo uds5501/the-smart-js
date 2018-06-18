@@ -13,8 +13,8 @@ The machine learning Frameworks so far allowed on this project are :
 
 ### How to contribute?
 
-**Step 1** : Creat an issue and propose your Model. It should be well documented and a running model.
-**Step 2** : Describe the dataset you are using.
-**Setp 3** : Submit you Pull Request and improvise according to the comments.
+**Step 1** : Creat an issue and propose your Model. It should be well documented and a running model.   
+**Step 2** : Describe the dataset you are using.   
+**Setp 3** : Submit you Pull Request and improvise according to the comments.   
 
 And.. that's it!
